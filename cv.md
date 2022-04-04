@@ -52,7 +52,7 @@ const passRandom = (len) => {
 * __Sevastopol National University:__
 
    * Сomputer science and engineering.
-
+ 
 
 ## Languages
 ---------
